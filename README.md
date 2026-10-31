@@ -30,29 +30,6 @@ Before starting the practical exercises, ensure your development environment mee
 
 ---
 
-## 🚀 Quick Start Guide
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
-```
-
-### 2. Set Up a Python Virtual Environment
-Follow **Lab 01** to configure your environment:
-```bash
-# Create environment
-python3 -m venv venv
-
-# Activate environment (Linux/macOS)
-source venv/bin/activate
-
-# Install Django
-pip install django Pillow
-```
-
----
-
 ## 📝 Key Features of these Lab Guides
 
 Each laboratory manual in this repository follows a standardized, student-friendly structure:
@@ -64,10 +41,3 @@ Each laboratory manual in this repository follows a standardized, student-friend
 - **📝 Lab Check-Off Checklist:** Verification checklists for instructors and students prior to lab sign-off.
 
 ---
-
-## 🤝 Contribution & Usage
-
-Feel free to fork this repository, submit pull requests, or adapt these lab guides for academic courses, workshops, and self-study modules. 
-
----
-*Created for Web Application Development & Software Engineering Lab Courses.*
